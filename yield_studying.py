@@ -32,6 +32,3 @@ try:
 
 except:
     print("UNEXPECTED ERROR OCCURRED")
-
-finally:
-    print("\nPROGAMM EXECUTED WITH RETURN 0")
